@@ -7,7 +7,7 @@
 - name: LOGO
   value: '/brand-assets/logo.svg'
 - name: BRAND_URL
-  value: 'https://www.chatwoot.com'
+  value: 'https://katonic.ai'
 - name: WIDGET_BRAND_URL
   value: 'https://katonic.ai'
 - name: BRAND_NAME

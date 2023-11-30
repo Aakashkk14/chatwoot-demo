@@ -15,7 +15,7 @@
         :src="globalConfig.logoThumbnail"
       />
       <span>
-        {{ useInstallationName($t('POWERED_BY'), globalConfig.brandName) }}
+        Powered By Katonic
       </span>
     </a>
   </div>

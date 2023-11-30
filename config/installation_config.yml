@@ -9,9 +9,9 @@
 - name: BRAND_URL
   value: 'https://katonic.ai'
 - name: WIDGET_BRAND_URL
-  value: 'https://katonic.ai'
+  value: 'https://Chatwoot.ai'
 - name: BRAND_NAME
-  value: 'Katonic'
+  value: 'Chatwoot'
 - name: TERMS_URL
   value: 'https://www.chatwoot.com/terms-of-service'
 - name: PRIVACY_URL

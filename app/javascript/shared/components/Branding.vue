@@ -1,23 +1,8 @@
 <template>
   <div
-    v-if="globalConfig.brandName && !disableBranding"
+    v-if="globalConfig.brandName && disableBranding"
     class="px-0 py-3 flex justify-center"
   >
-    <a
-      :href="brandRedirectURL"
-      rel="noreferrer noopener nofollow"
-      target="_blank"
-      class="branding--link justify-center items-center leading-3"
-    >
-      <img
-        class="branding--image"
-        :alt="globalConfig.brandName"
-        :src="globalConfig.logoThumbnail"
-      />
-      <span>
-        Powered By Katonic
-      </span>
-    </a>
   </div>
   <div v-else class="p-3" />
 </template>
